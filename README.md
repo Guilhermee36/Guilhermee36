@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,php,python,js,html,css,git,github,vscode,C#&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,php,python,cs,js,html,css,git,github,figma,&theme=dark" />
 </p>
 
 ---
