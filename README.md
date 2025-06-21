@@ -39,7 +39,7 @@
 ### 📫 Vamos conversar?
 
 <div align="center">
-  <a href="gmarques.js@gmail.com">
+  <a href="mailto:gmarques.js@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/guilherme-marques-078191351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
